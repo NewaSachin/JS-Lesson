@@ -27,11 +27,33 @@
 const isLoggedIn = false
 const outsideTemp = null
 
-let userEmail; //undefined
-const id = Symbol('123')
-const anotherId = Symbol('123')
+// let userEmail; //undefined
+// const id = Symbol('123')
+// const anotherId = Symbol('123')
 // console.log(id);
-console.log(id===anotherId);
+// console.log(id===anotherId);
+
+const bigNumber = 3566668696899455n
+
+
+const name = ['Sachin','nepal','brt'];
+
+let obj={
+    name1:'shrestha',
+    age : 22,
+
+}
+
+// function h1(){
+//     console.log("hello")
+// }
+const myfunction=function(){
+    console.log("hello")
+}
+
+console.log(typeof name)
+
+
 
 
 
