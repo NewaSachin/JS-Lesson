@@ -9,10 +9,10 @@ let negValue = -value
 // console.log(2/3)
 // console.log(2%3);
 
-let str1 = 'hello'
-let str2 = ' Sachin'
+// let str1 = 'hello'
+// let str2 = ' Sachin'
 
-let str3 = str1+str2
+// let str3 = str1+str2
 // console.log(str3) 
 
 // console.log("1"+2)
@@ -34,7 +34,8 @@ let str3 = str1+str2
 // console.log(num1)
 
 let gameCounter = 100
-gameC
+++gameCounter;
+console.log(gameCounter)
 
 
 
